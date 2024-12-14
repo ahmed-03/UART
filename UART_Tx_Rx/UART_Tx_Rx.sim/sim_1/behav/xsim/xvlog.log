@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Counter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/ReceiverController.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ReceiverController
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Register.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift_Reg
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg_Rx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift_Reg_Rx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Top_Rx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_Rx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Top_Trans.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_Trans
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Trans2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Trans2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/TransmitionController.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TransmitionController
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/new/UART_Receiver.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART_Receiver
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/baud_rate_gen2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module baud_rate_gen2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/clk_divider.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/new/top_UART.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_UART
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sim_1/new/tb_top_UART.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top_UART

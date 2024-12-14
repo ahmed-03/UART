@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec 14 14:29:51 2024
+# Process ID: 770155
+# Current directory: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.runs/impl_1
+# Command line: vivado -log top_UART.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_UART.tcl -notrace
+# Log file: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.runs/impl_1/top_UART.vdi
+# Journal file: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source top_UART.tcl -notrace

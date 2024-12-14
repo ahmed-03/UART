@@ -1,0 +1,26 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/abdu/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 902abcb7d4264a59ae9b8f89a7bfda6c --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_top_UART_behav xil_defaultlib.tb_top_UART xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Paritiy_Typer' [/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/new/top_UART.sv:60]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clk_divider
+Compiling module xil_defaultlib.baud_rate_gen2
+Compiling module xil_defaultlib.TransmitionController
+Compiling module xil_defaultlib.Shift_Reg(width=8)
+Compiling module xil_defaultlib.Counter
+Compiling module xil_defaultlib.Trans2
+Compiling module xil_defaultlib.Top_Trans
+Compiling module xil_defaultlib.ReceiverController
+Compiling module xil_defaultlib.Register(bits=1)
+Compiling module xil_defaultlib.Shift_Reg_Rx(width=9)
+Compiling module xil_defaultlib.UART_Receiver(pairity_type=0)
+Compiling module xil_defaultlib.Top_Rx(pairity_type=0)
+Compiling module xil_defaultlib.top_UART(baud_used=0)
+Compiling module xil_defaultlib.tb_top_UART
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_top_UART_behav

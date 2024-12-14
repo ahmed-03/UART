@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/TOP_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Counter
+INFO: [VRFC 10-311] analyzing module Counter_1
+INFO: [VRFC 10-311] analyzing module Counter_2
+INFO: [VRFC 10-311] analyzing module ReceiverController
+INFO: [VRFC 10-311] analyzing module Register
+INFO: [VRFC 10-311] analyzing module Shift_Reg
+INFO: [VRFC 10-311] analyzing module Shift_Reg_Rx
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-311] analyzing module Top_Rx
+INFO: [VRFC 10-311] analyzing module Top_Trans
+INFO: [VRFC 10-311] analyzing module Trans2
+INFO: [VRFC 10-311] analyzing module TransmitionController
+INFO: [VRFC 10-311] analyzing module UART_Receiver
+INFO: [VRFC 10-311] analyzing module baud_rate_gen2
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-311] analyzing module clk_divider_0
+INFO: [VRFC 10-311] analyzing module counter_n_bit
+INFO: [VRFC 10-311] analyzing module sev_seg_controller
+INFO: [VRFC 10-311] analyzing module top_UART
+INFO: [VRFC 10-311] analyzing module glbl

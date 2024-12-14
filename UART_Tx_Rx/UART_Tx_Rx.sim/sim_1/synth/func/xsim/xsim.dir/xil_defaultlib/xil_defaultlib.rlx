@@ -1,0 +1,6 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/TOP_func_synth.v,1734185073,verilog,,,,Counter;Counter_1;Counter_2;ReceiverController;Register;Shift_Reg;Shift_Reg_Rx;TOP;Top_Rx;Top_Trans;Trans2;TransmitionController;UART_Receiver;baud_rate_gen2;clk_divider;clk_divider_0;counter_n_bit;glbl;sev_seg_controller;top_UART,,,,,,,,
+/home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.srcs/sim_1/new/tb_top_UART.sv,1734172017,systemVerilog,,,,tb_top_UART,,,,,,,,

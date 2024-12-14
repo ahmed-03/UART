@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sim_1/new/tb_Top_Trans.sv,1734169441,systemVerilog,,,,tb_Top_Trans,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sim_1/new/tb_top_UART.sv,1734172017,systemVerilog,,,,tb_top_UART,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Top_Trans.sv,1734170395,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Trans2.sv,,Top_Trans,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Trans2.sv,1734169639,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/TransmitionController.sv,,Trans2,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/TransmitionController.sv,1734169223,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/new/UART_Receiver.sv,,TransmitionController,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sim_1/new/tb_Top_Rx.sv,1734156138,systemVerilog,,,,tb_Top_Rx,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Counter.sv,1734169110,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/ReceiverController.sv,,Counter,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/ReceiverController.sv,1734165620,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Register.sv,,ReceiverController,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Register.sv,1733990720,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg.sv,,Register,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg.sv,1734168644,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg_Rx.sv,,Shift_Reg,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg_Rx.sv,1734124590,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Top_Rx.sv,,Shift_Reg_Rx,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Top_Rx.sv,1734165572,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/Trans/Top_Trans.sv,,Top_Rx,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/new/UART_Receiver.sv,1734172264,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/baud_rate_gen2.sv,,UART_Receiver,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/baud_rate_gen2.sv,1733994876,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/clk_divider.sv,,baud_rate_gen2,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/imports/project_1_UART/project_1_UART.srcs/sources_1/new/clk_divider.sv,1733889929,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/new/top_UART.sv,,clk_divider,,,,,,,,
+/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sources_1/new/top_UART.sv,1734170185,systemVerilog,,/home/abdu/Vpro/UART_Tx_Rx/UART_Tx_Rx.srcs/sim_1/new/tb_top_UART.sv,,top_UART,,,,,,,,

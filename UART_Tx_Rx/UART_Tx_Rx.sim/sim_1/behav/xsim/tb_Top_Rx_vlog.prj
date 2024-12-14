@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Counter.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/ReceiverController.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Register.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Shift_Reg_Rx.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sources_1/new/Top_Rx.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/new/UART_Receiver.sv" \
+"../../../../UART_Tx_Rx.srcs/sources_1/imports/project_1_Rx/project_1_Rx.srcs/sources_1/imports/rx_v1/sim_1/new/tb_Top_Rx.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

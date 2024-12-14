@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec 14 17:04:37 2024
+# Process ID: 839571
+# Current directory: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim
+# Command line: wbtcv -mode batch -source /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/xsim.dir/TOP_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/it/Desktop/Backloop/UART_Tx_Rx/UART_Tx_Rx.sim/sim_1/synth/func/xsim/xsim.dir/TOP_func_synth/webtalk/xsim_webtalk.tcl -notrace
